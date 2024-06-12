@@ -33,7 +33,7 @@ python main.py --env_name AntMaze
 If you find our work useful, please consider citing our paper as follows:
 
 ````
-@inproceedings{Luo2024ompo,
+@inproceedings{Luo2024BrHPO,
   title={Bidirectional-Reachable Hierarchical Reinforcement Learning with Mutually Responsive Policies}, 
   author={Yu Luo and Fuchun Sun and Tianjing Ji and Xianyuan Zhan},
   booktitle={Reinforcement Learning Conference},
